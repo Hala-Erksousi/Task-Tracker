@@ -3,39 +3,39 @@ This project used to track and manage your tasks and build a simple command line
 and store the tasks in a json file to protect the information from lost
 
 ---
-# Usage
+## Usage
 - To add a new task:
   ```bash
-python main.py add  mission
+  python main.py add  mission
 
 - View all tasks:
   ```bash
-python main.py listAll
+  python main.py listAll
 
 - Display tasks with specific statuses:
   ```bash
-python main.py list done
+  python main.py list done
 
 - Update mission description:
   ```bash
-python main.py update 1 work
+  python main.py update 1 work
 
 - Delete a task:
   ```bash
-python main.py delete 1
+  python main.py delete 1
 
 ---
-# Getting Started 
+## Getting Started 
 
 Using vscode to setup the enviroment to use this code. 
 
-## Prerequisites:
+### Prerequisites:
 
 - python 3.10 or higher
   
 - an accessible terminal
   
-## Downloading the Project:
+### Downloading the Project:
 
 1.Clone the repository: git clone https://github.com/Hala-Erksousi/Task-Tracker.git
 
@@ -44,11 +44,15 @@ Using vscode to setup the enviroment to use this code.
 3.Run the main script: python Main.py
 
 ---
-# Features
+## Features
 ✔ Add, update, and delete tasks.
+
 ✔ Change a task's status to "in-progress" or "done".
+
 ✔ List all tasks.
+
 ✔ List tasks by their status (e.g., "done", "todo", "in-progress").
+
 ✔ Use a JSON file to permanently store tasks.
 
----
+
