@@ -55,5 +55,4 @@ Using vscode to setup the enviroment to use this code.
 
 ✔ Use a JSON file to permanently store tasks.
 
----
-https://roadmap.sh/projects/task-tracker
+
