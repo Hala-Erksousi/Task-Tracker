@@ -1,6 +1,6 @@
 # Task Tracker CLI
 This project used to track and manage your tasks and build a simple command line interface (CLI) to track what you need to do,what you have done and what you are currently working on and accept user actions and inputs as arguments
-and store the tasks in a json file to protect the information from lost
+and store the tasks in a json file to protect the information from lost.
 
 ---
 ## Usage
@@ -37,11 +37,11 @@ Using vscode to setup the enviroment to use this code.
   
 ### Downloading the Project:
 
-1.Clone the repository: git clone https://github.com/Hala-Erksousi/Task-Tracker.git
+1. Clone the repository: git clone https://github.com/Hala-Erksousi/Task-Tracker.git
 
-2.Upgrade pip (if necessary): pip install --upgrade pip
+2. Upgrade pip (if necessary): pip install --upgrade pip
 
-3.Run the main script: python Main.py
+3. Run the main script: python Main.py
 
 ---
 ## Features
